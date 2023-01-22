@@ -76,6 +76,7 @@ color: #0bb5f4;
 text-decoration: underline;}
 
 .Experience h4{
+  padding-top: 5px;
   padding-bottom: 5px;}
 
 .Experience h5{
@@ -102,6 +103,7 @@ padding-bottom: 15px;
 text-decoration: underline;
 color: #0bb5f4;}
 .Education h4{
+  padding-top: 5px;
   padding-bottom : 5px;}
 
 
@@ -111,6 +113,7 @@ text-decoration: underline;
 color: #0bb5f4;}
 
 .Leadership h4{
+  padding-top: 5px;
   padding-bottom : 5px;}
 
 .Skills ul li{
