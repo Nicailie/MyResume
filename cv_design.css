@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+ 
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Times New Roman", sans-serif;
+}
+body {
+  
+  font-size: 14px;
+  color: #555555;
+}
+
+.Mypicture {  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  }
+img {
+  border-radius: 50%;
+  max-width: 100%; 
+}
+
+.resume .Description {
+  padding-bottom: 20px;
+  text-align: center;
+
+}
+.resume {
+  width: 800px;
+  height: auto;
+  display: flex;
+  margin: 50px auto;
+}
+
+.resume .image_side
+{width: 280px;
+  background: #61c4e8;}
+
+.resume .all {
+  width: 520px;
+  background: #fff;
+  padding: 25px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.resume .all ul li {
+  position: relative;
+}
+.Language { position: ;
+    height:100px;
+  bottom: 100px;
+   
+}
+.Skills { position: ;
+    height:50px;
+  bottom: 40px;
+   
+}
+.resume .image_side h2 {
+  text-align: center;
+   
+  padding-bottom: 20px;
+}
+
+.Experience{
+padding-bottom: 15px;
+            border-bottom-style: solid;
+            border-bottom-width: 2.1px;
+            width: fit-content;
+}
+.Experience h3{
+padding-bottom: 10px;
+color: #0bb5f4;
+text-decoration: underline;}
+
+.Experience h4{
+  padding-bottom: 5px;}
+
+.Experience h5{
+text-decoration : underline}
+
+.About{padding-bottom: 15px;
+            border-bottom-style: solid;
+            border-bottom-width: 2.1px;
+  width: fit;
+}
+
+.About h3{padding-bottom : 15px;
+color: #0bb5f4;
+text-decoration: underline;}
+  
+.Education{
+padding-bottom: 15px;
+            border-bottom-style: solid;
+            border-bottom-width: 2.1px;
+            width: fit;
+}
+.Education h3{
+  padding-bottom : 10px;
+text-decoration: underline;
+color: #0bb5f4;}
+.Education h4{
+  padding-bottom : 5px;}
+
+
+.Leadership h3{
+  padding-bottom : 10px;
+text-decoration: underline;
+color: #0bb5f4;}
+
+.Leadership h4{
+  padding-bottom : 5px;}
+
+.Skills ul li{
+  padding-bottom : 5px
+  color: #555555;}
+.Skills h3{
+
+  text-decoration: underline;
+  padding-bottom : 10px;
+  color:#F5F5DC
+}
+.Language h3{
+
+  text-decoration: underline;
+  padding-bottom : 10px;
+  color:#F5F5DC
+}
+.Social h3 {
+
+  text-decoration: underline;
+  padding-bottom : 10px;
+  color:#F5F5DC
+}
+
+.Description li {
+  padding-top: 5px ;
+  padding-bottom: 10px;
+}
